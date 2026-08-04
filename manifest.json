@@ -1,0 +1,16 @@
+{
+  "name": "Muhammad Mussab Bin Asad Portfolio",
+  "short_name": "Mussab Portfolio",
+  "start_url": "/portfolio/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "description": "A modern portfolio for Muhammad Mussab Bin Asad, highlighting software engineering skills and projects.",
+  "icons": [
+    {
+      "src": "assets/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
